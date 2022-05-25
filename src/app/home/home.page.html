@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title class="tituloProyecto">
+      
+    </ion-title>
+    <ion-img style="height: 300px; width: 600px; " src="../../assets/icon/Tinder_Header_.jpeg"></ion-img>
+  </ion-toolbar>
+</ion-header>
+<ion-content style="background-color: white;"class="auth-form">
+  <ion-grid>
+    <ion-row>
+      <ion-col align-self-center>
+        <ion-button [routerLink]="['/registration']" expand="block" color="primary">Registro</ion-button>
+        <span class="divider line one-line">O</span>
+        <span class="already">Ya dispone de usuario?</span>
+        <ion-button [routerLink]="['/login']" expand="block" color="danger">Iniciar Sesión</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
