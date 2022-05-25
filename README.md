@@ -1,3 +1,8 @@
+ENLACE VIDEOS WEB:
+https://drive.google.com/drive/folders/11dmqpYi5zNUtG5WTSjh0VTOksevq3kJl?usp=sharing
+
+
+
 Entrega 1
 
 -Objecitu de l’app:
